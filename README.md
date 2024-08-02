@@ -12,3 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 /tmp/guest-yufmlj/Downloads/octocat-1722608391675.png
+
+![](octocat-1722608391675.png)
